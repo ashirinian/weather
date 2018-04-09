@@ -8,7 +8,7 @@ body {
 	padding: 0;
 	margin: 0;
 	background: #ECEFF1;
-	background-image: url('/assets/img/bg.png');
+	background-image: url('/weather/assets/img/bg.png');
 	background-repeat: repeat;
 	background-position: top left;
 	position: relative;
